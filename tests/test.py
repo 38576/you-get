@@ -2,12 +2,7 @@
 
 import unittest
 
-from you_get.extractors import (
-    imgur,
-    magisto,
-    youtube,
-    bilibili,
-)
+from you_get.extractors import (http://tv.naver.com/v/1686568)
 
 
 class YouGetTests(unittest.TestCase):
